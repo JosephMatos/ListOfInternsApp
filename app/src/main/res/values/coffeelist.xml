@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name = "coffeeMenu">
+        <item>Joseph Matos</item>
+        <item>Nick Burnam</item>
+        <item>Carlos Cisneros</item>
+        <item>Julian Ramos</item>
+    </string-array>
+</resources>
+
